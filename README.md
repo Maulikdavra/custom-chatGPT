@@ -25,22 +25,37 @@ This project is a personal AI chatbot built using FastAPI and OpenAI's GPT-3.5 T
 **`Installation Guide`**
 
 **`Requirements`**
+
 -> Python 3.x
+
 -> FastAPI
+
 -> OpenAI Python package
+
 -> Mangum
 
 **`Steps`**
+
 -> Clone the repository
+
 -> Install the required packages
+
 -> bash
+
 -> Copy code
+
 -> pip install fastapi openai mangum
+
 -> Run the FastAPI server
+
 -> bash
+
 -> Copy code
+
 -> uvicorn main:app --reload
+
 -> Usage
+
 -> Chat
 
 -> Open your browser and navigate to [[http://localhost:8000/](http://127.0.0.1:8000/docs)
