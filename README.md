@@ -1,12 +1,12 @@
 # Personal AI Chatbot
 
-Author
+**`Author`**
 Maulik Davra
 
-Date
+**`Date`**
 08/27/2023
 
-Version
+**`Version`**
 v1
 
 Overview
