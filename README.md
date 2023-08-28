@@ -14,8 +14,11 @@ This project is a personal AI chatbot built using FastAPI and OpenAI's GPT-3.5 T
 
 **`Features`**
 -> Text-based chat with the AI chatbot
+
 -> Image generation based on user input
+
 -> Built with FastAPI for high performance
+
 -> Uses OpenAI's GPT-3.5 Turbo for chat and image generation
 
 **`Installation Guide`**
